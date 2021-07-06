@@ -62,7 +62,7 @@ public class biblioteca extends JFrame implements ActionListener {
 		
 		lb1 = new libros();
 		lb2 = new libros();
-		lb1.setTitulo("Cosas Añejas");
+		lb1.setTitulo("Cuentos escritos en el exilio");
 		lb2.setTitulo("Barriga Verde");
 		lb1.setOriginal(true);
 		lb2.setOriginal(false);
